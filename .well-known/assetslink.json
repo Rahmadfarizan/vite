@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.empatnusabangsa.pakektp",
+      "sha256_cert_fingerprints": [
+        "76:F2:4A:2D:C2:31:8E:72:5A:AD:12:5C:50:93:B8:37:84:62:9C:00:A3:4C:E0:7F:20:71:2C:BB:A5:3F:E4:5D"
+      ]
+    }
+  }
+]

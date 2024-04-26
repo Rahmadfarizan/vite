@@ -4,7 +4,7 @@ import ResetPin from '../ResetPin.vue'
 
 const routes = [
   { path: '/', component: Home },
-  { path: '/resetpin', component: ResetPin },
+  { path: '/reset-pin', component: ResetPin },
 ]
 
 const router = createRouter({

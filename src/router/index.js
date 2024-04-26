@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Home from '../Home.vue' // Sesuaikan dengan lokasi file Home.vue Anda
-import ResetPin from '../ResetPin.vue' // Sesuaikan dengan lokasi file ResetPin.vue Anda
+import Home from '../Home.vue' 
+import ResetPin from '../ResetPin.vue' 
 
 const routes = [
   { path: '/', component: Home },

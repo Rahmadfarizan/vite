@@ -14,6 +14,14 @@ import HelloWorld from './components/HelloWorld.vue'
   <HelloWorld msg="Vite Vue" />
 </template>
 
+<template>
+  <div>
+    <h1>Reset PIN</h1>
+    <p>This is a new page added to the project.</p>
+  </div>
+</template>
+
+
 <style scoped>
 .logo {
   height: 6em;

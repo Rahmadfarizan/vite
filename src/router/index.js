@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../Home.vue' 
 import ResetPin from '../ResetPin.vue' 
 
+//Routes
 const routes = [
   { path: '/', component: Home },
   { path: '/resetpin', component: ResetPin },

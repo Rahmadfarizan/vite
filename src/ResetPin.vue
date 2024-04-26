@@ -1,3 +1,3 @@
 <template>
-  <h1>Reset Pin</h1>
+  <h1>Reset Pin Cuy</h1>
 </template>
